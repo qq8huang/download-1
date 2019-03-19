@@ -7,9 +7,16 @@
 	<key>destination</key>
 	<string>export</string>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.bitMore.kashjack.www</key>
+		<string>Developer_All</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Developer</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<false/>
 	<key>teamID</key>

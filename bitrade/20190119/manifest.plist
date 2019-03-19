@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.BitMore.kashjack.www.newappw2</string>
+				<string>com.bitMore.kashjack.www</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
